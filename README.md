@@ -2,7 +2,7 @@
   <h1> Hi 👋 I'm Azhar Zaman.</h1>
   <img src="https://img.shields.io/badge/Open To Work-informational?style=for-the-badge alt="Work status Badge"/>
   <div id="badges">
-    <a href="https://www.azharzaman.com" target="_blank">
+    <a href="https://www.azharzaman.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/azhar-zaman/" target="_blank">
