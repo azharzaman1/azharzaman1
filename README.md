@@ -2,16 +2,16 @@
   <h1> Hi 👋 I'm Azhar Zaman.</h1>
   <img src="https://img.shields.io/badge/Open To Work-informational?style=for-the-badge alt="Work status Badge"/>
   <div id="badges">
-    <a href="https://www.azharzaman.com">
+    <a href="https://www.azharzaman.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://blog.azharzaman.com">
+    <a href="https://blog.azharzaman.com" target="_blank">
       <img src="https://img.shields.io/badge/Blog-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/azhar-zaman/">
+    <a href="https://www.linkedin.com/in/azhar-zaman/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-ec4884?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/idrazhar">
+    <a href="https://twitter.com/idrazhar" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-ec4884?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
