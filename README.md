@@ -47,11 +47,11 @@ I am a Web development Student, MERN stack developer, and an Author <img src="ht
 
 ---
 
-### Want to hire me
+### 💻 Want to hire me
 If you have some an opening in your awesome company relevant to my skill-set. Lets talk 🎧.\
 If you want to discuss your project or want me to handle your project and build something awesome for you. My inbox is empty and waiting for your message.
 
-### Lets talk 🎧
+### 🎧 Lets talk 
 Hit me by any means;
 <div>
     <a href="mailto:azhar.works1@gmail.com">
