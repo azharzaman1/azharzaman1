@@ -48,4 +48,16 @@ I am a Web development Student, MERN stack developer, and an Author <img src="ht
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharzaman1&layout=compact&theme=vision-friendly-dark)](https://github.com/sudheerj/github-readme-stats)
 
+---
 
+### Want to hire me
+If you have some an opening in your awesome company relevant to my skill-set. Lets talk 🎧.\
+If you want to discuss your project or want me to handle your project and build something awesome for you. My inbox is empty and waiting for your message.
+
+### Lets talk 🎧
+Hit me by any means;
+<div>
+    <a href="https://www.azharzaman.com" target="_blank">
+      <img src="https://img.shields.io/badge/Whatsapp Me-success?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp me badge"/>
+    </a>
+</div>
