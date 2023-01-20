@@ -61,7 +61,4 @@ If you want to discuss your project with me or want me to build something awesom
     <a href="https://www.linkedin.com/in/azhar-zaman/">
       <img src="https://img.shields.io/badge/Contact on LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn contact Badge"/>
     </a>
-    <a href="https://twitter.com/idrazhar">
-      <img src="https://img.shields.io/badge/Contact on Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge"/>
-    </a>
 </div>
