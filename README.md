@@ -3,13 +3,13 @@
   <img src="https://img.shields.io/badge/Open To Work-informational?style=for-the-badge alt="Work status Badge"/>
   <div id="badges">
     <a href="https://www.azharzaman.com">
-      <img src="https://img.shields.io/badge/Portfolio-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    </a>
+                                                                                                                                          <a href="https://blog.azharzaman.com">
+      <img src="https://img.shields.io/badge/Blog-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/azhar-zaman/">
       <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/idrazhar">
-      <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
 </div>
@@ -47,12 +47,10 @@ I am a Web development Student, MERN stack developer, and an Author <img src="ht
 
 ---
 
-### 💻 Want to hire me
+### 💻 Want to work with me
 If you have an opening at your awesome company relevant to my skill-set. Lets talk 🎧.\
-If you want to discuss your project or want me to handle your project and build something awesome for you. My inbox is empty and waiting for your message.
+If you want to discuss your project with me or want me to build something awesome for you. Lets talk 🎧.
 
-### 🎧 Lets talk 
-Hit me by any means;
 <div>
     <a href="mailto:azhar.works1@gmail.com">
       <img src="https://img.shields.io/badge/Email Me-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me badge"/>
