@@ -15,7 +15,7 @@
 
 ---
 
-I am a Full-stack developer, an author, and an amateur Chess player <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, an author, and an amateur Chess player from Pakistan.
 
 
 ### :hammer_and_wrench: Languages and Technologies :
