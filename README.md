@@ -2,7 +2,7 @@
   <h1> Hi 👋 I'm Azhar Zaman.</h1>
   <div id="badges">
     <a href="https://www.azharzaman.com">
-      <img src="https://img.shields.io/badge/Portfolio-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+      <img src="https://img.shields.io/badge/Website-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
     </a>
                                                                                                                                           <a href="https://blog.azharzaman.com">
       <img src="https://img.shields.io/badge/Blog-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog Badge"/>
@@ -47,13 +47,13 @@ I am a Full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 💻 Lets talk 🎧
 
 <div>
-    <a href="mailto:azhar.works1@gmail.com">
-      <img src="https://img.shields.io/badge/Email Me-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me badge"/>
+    <a href="mailto:hi@azharzaman.com">
+      <img src="https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me badge"/>
     </a>
     <a href="https://api.whatsapp.com/send?phone=923170460466&text=Hi">
-      <img src="https://img.shields.io/badge/Whatsapp Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp me badge"/>
+      <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp me badge"/>
     </a>
     <a href="https://www.linkedin.com/in/azhar-zaman/">
-      <img src="https://img.shields.io/badge/Contact on LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn contact Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn contact Badge"/>
     </a>
 </div>
