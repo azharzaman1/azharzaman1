@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <h1> Hi 👋 I'm Azhar Zaman.</h1>
   <div id="badges">
-    <a href="https://www.azharzaman.com">
+    <a href="https://www.azharzaman.com" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Website-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
     </a>
-                                                                                                                                          <a href="https://blog.azharzaman.com">
+                                                                                                                                          <a href="https://blog.azharzaman.com" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Blog-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/azhar-zaman/">
+    <a href="https://www.linkedin.com/in/azhar-zaman/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
