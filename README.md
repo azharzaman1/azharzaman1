@@ -38,10 +38,6 @@ I am a Full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>
 </div>
 
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharzaman1&layout=compact&theme=vision-friendly-dark)](https://github.com/sudheerj/github-readme-stats)
-
 ---
 
 ### 💻 Lets talk 🎧
