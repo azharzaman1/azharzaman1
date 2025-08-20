@@ -4,7 +4,7 @@
     <a href="https://www.azharzaman.com" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Website-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
     </a>
-    <a href="https://blog.azharzaman.com" target="_blank" rel="noreferrer">
+    <a href="https://www.azharzaman.com/blog"_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Blog-ec4884?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/azhar-zaman/" target="_blank" rel="noreferrer">
@@ -15,7 +15,7 @@
 
 ---
 
-I am a super-focused introvert, an amateur Chess player, a tech author, and a student of Physics. And a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> of course.
+I am a super-focused introvert, a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, an amateur Chess player, a tech author, and a student of Physics.
 
 
 ### :hammer_and_wrench: Languages and Technologies :
@@ -35,7 +35,6 @@ I am a super-focused introvert, an amateur Chess player, a tech author, and a st
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>
 </div>
 
 ---
